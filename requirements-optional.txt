@@ -1,0 +1,4 @@
+# Optional extras for enhanced UI
+st-aggrid==0.3.2
+streamlit-authenticator==0.5.0
+
